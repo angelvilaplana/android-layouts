@@ -9,4 +9,6 @@
     <string name="tfState">State</string>
     <string name="tfZip">Zip</string>
     <string name="tfEmail">Email</string>
+    <string name="btShowData">Show the data</string>
+    <string name="btExit">Exit</string>
 </resources>

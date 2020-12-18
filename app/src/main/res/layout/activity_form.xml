@@ -261,6 +261,28 @@
                     />
                 </com.google.android.material.textfield.TextInputLayout>
             </LinearLayout>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginBottom="20dp">
+                <Button
+                        android:id="@+id/btShowData"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/btShowData"
+                        android:layout_marginEnd="10dp"
+                        android:onClick="handleShowData"
+                        android:layout_weight="1"/>
+                <Button
+                        android:id="@+id/btExit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/btExit"
+                        android:onClick="handleExit"
+                        android:layout_weight="1"/>
+            </LinearLayout>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
