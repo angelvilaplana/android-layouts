@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Layouts</string>
+    <string name="tfBirthday">Birthday</string>
+    <string name="tfName">Name</string>
+    <string name="tfPhone">Phone</string>
+    <string name="tfArea">Area</string>
+    <string name="tfAddress">Address</string>
+    <string name="tfCity">City</string>
+    <string name="tfState">State</string>
+    <string name="tfZip">Zip</string>
+    <string name="tfEmail">Email</string>
+</resources>
